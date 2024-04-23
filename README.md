@@ -1,18 +1,28 @@
 ### Hello, I'm Nicholas Gallegos
 
-🔗 Website: 
+I am currently looking for work!
 
-🗒️ Tech Stack: JavaScript, React, Python, Flask, SQL, PostgreSQL, Solidity, HTML, CSS, Tailwind
+##
+🔗 **Website:** 
 
-💻 Currently working on updating Snip-Snap. My next new project is a task manager.
+🗒️ **Tech Stack:** JavaScript, React, HTML, CSS, Python, Flask, RESTful APIs, SQL, SQLAlchemy, Electron, JSON, BCrypt, Git, Visual Studio Code, Pro Tools
 
-🧠 I am in the process of learning C++ and continuing to learn about Electron and Appkit. In the future I want to learn Typescript, Django, and CSS-frameworks
+💻 **Currently working on** updating Snip-Snap. My next new project is a task manager.
 
-👤 LinkedIn: https://www.linkedin.com/in/nicholas-gallegos/
+🧠 **I am in the process of learning** C++ and continuing to learn about Electron and Appkit. In the future I want to learn Typescript, Django, and CSS-frameworks
 
-📘 Blog: https://medium.com/@ngallegos8
+👤 **LinkedIn:** https://www.linkedin.com/in/nicholas-gallegos/
 
-📫 Email me: ngallegos8@gmail.com
+📘 **Blog:** https://medium.com/@ngallegos8
+
+📫 **Email me:** ngallegos8@gmail.com
+
+
+
+
+
+
+
 
 
 <!--
