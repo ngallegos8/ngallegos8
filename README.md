@@ -1,8 +1,8 @@
 ### Hello, I'm Nicholas Gallegos
+__
 
 I am currently looking for work!
 
-##
 🔗 **Website:** 
 
 🗒️ **Tech Stack:** JavaScript, React, HTML, CSS, Python, Flask, RESTful APIs, SQL, SQLAlchemy, Electron, JSON, BCrypt, Git, Visual Studio Code, Pro Tools
