@@ -1,12 +1,14 @@
-### Hello! I'm Nicholas Gallegos 👋  
-<p align="center">
-    <i>I am currently looking for work!</i>
-  </p> 
-
+### Hello! I'm Nicholas Gallegos 👋
 ![asd](https://github.com/ngallegos8/ngallegos8/assets/152644226/7821b33f-3746-4beb-be1f-da66cc2f39f0)
 
   
 
+  <p align="center">
+    <i>I am currently looking for work!</i>
+  </p>  
+
+
+      
 
 
 
