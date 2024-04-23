@@ -1,5 +1,5 @@
 ### Hello, I'm Nicholas Gallegos 
-#
+___
 
 I am currently looking for work!
 
