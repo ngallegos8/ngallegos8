@@ -1,6 +1,9 @@
-### Hello, I'm Nicholas Gallegos #
+### Hello, I'm Nicholas Gallegos 
+#
 
 I am currently looking for work!
+
+
 
 🔗 **Website:** 
 
