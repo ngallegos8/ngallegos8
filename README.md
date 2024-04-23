@@ -1,4 +1,4 @@
-!(https://github.com/ngallegos8/ngallegos8/assets/152644226/702a770e-6258-4681-880a-3c9a870ddee9)
+!((https://github.com/ngallegos8/ngallegos8/assets/152644226/702a770e-6258-4681-880a-3c9a870ddee9))
 
 
 ### Hello, I'm Nicholas Gallegos 
