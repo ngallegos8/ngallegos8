@@ -1,4 +1,4 @@
-!(![asd](https://github.com/ngallegos8/ngallegos8/assets/152644226/27854265-c9a1-4cbe-84a4-dc6be961afc5))
+(https://github.com/ngallegos8/ngallegos8/assets/152644226/27854265-c9a1-4cbe-84a4-dc6be961afc5)
 
 ### Hello, I'm Nicholas Gallegos 
 ___
