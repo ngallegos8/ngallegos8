@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Nicholas Gallegos
+
+
 
 <!--
 **ngallegos8/ngallegos8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
